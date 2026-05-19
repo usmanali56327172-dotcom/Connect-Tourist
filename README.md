@@ -1,2 +1,27 @@
-# Connect-Tourist
-ConnectTourist is a full-stack tourism web application that allows users to explore destinations, view events, and book tour packages. Built with Node.js, Express, and MongoDB, it includes authentication, booking management, and interactive pages for travelers to plan and manage their trips efficiently through a user-friendly interface.
+# ConnectTourist
+
+ConnectTourist is a full-stack tourism web application that helps users discover destinations, explore events, and book tour packages online.
+
+## Features
+
+- User registration and login
+- Browse tourist destinations
+- View upcoming events
+- Book tour packages
+- Manage booked tours
+- Contact and About pages
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- HTML, CSS, JavaScript
+
+## Installation
+
+```bash
+git clone <repository-url>
+cd ConnectTourist
+npm install
